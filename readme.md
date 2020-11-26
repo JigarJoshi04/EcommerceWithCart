@@ -112,7 +112,11 @@ this means your database is connected and your backend is ready.</ol>
 <img src="screenshots/02.png"><br>
 <img src="screenshots/01.png"><br>
 <img src="screenshots/03.png"><br>
-<img src="screenshots/04.png"><br><br>
+<img src="screenshots/04.png"><br>
+<img src="screenshots/Screenshot (154).png"><br>
+<img src="screenshots/Screenshot (155).png"><br>
+<!--   Screenshot (154).png
+  Screenshot (155).png -->
 <!-- <img src="screenshots/05.png">
 <img src="screenshots/06.png">
 <img src="screenshots/07.png"> -->
