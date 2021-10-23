@@ -70,6 +70,7 @@ this means your database is connected and your backend is ready.</ol>
 `npm install dependencies` <br>
 `npm start` <br></ol>
 
+<li> When both the sessions are up and running, use postman to hit the products API. The API documentation is exported in file called krafty.postman_collection
 
 
 <h3><b>Tech Stack </b></h3>
