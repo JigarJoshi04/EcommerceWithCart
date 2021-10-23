@@ -6,6 +6,7 @@ const Product = require("../models/product");
 
 
 router.get("/",async (req,res)=>{
+    console.log("Inside HOME API")
     try{
        const product = await Product.find();
        //console.log("Jigar")
